@@ -11,6 +11,7 @@
 
 #### Step 1: Reformat the SD Card
 Insert the SD card into your computer and reformat it using a tool like SD Card Formatter.
+<img width="658" alt="Screenshot 2023-12-18 103301" src="https://github.com/vincentjamessalvino/Readme.md/assets/145561497/65131ff4-9729-410d-8a92-82aa86f5deb6">
 
 #### Step 2: Download Raspbian OS
 Visit the official Raspberry Pi website and download the latest Raspbian OS image.
