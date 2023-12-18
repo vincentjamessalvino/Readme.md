@@ -37,7 +37,8 @@ Use the following command to connect to the Raspberry Pi:
 ssh username@<RaspberryPiIP>
 ```
 Enter your password when prompted.
-![Screenshot 2023-12-13 161926](https://github.com/vincentjamessalvino/Readme.md/assets/145563728/fe3f9d5b-f900-4ee6-9353-8fba1e74a78e)
+
+![Screenshot 2023-12-13 161926](https://github.com/vincentjamessalvino/Readme.md/assets/145563728/bf074085-c2ed-46e9-864d-b1332900ae38)
 
 ### 3. Deploying LAMP Stack in Raspberry Pi
 
