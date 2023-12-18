@@ -15,11 +15,15 @@ Insert the SD card into your computer and reformat it using a tool like SD Card 
 
 #### Step 2: Download Raspbian OS
 Visit the official Raspberry Pi website and download the latest Raspbian OS image.
+<img width="952" alt="Screenshot 2023-12-18 104113" src="https://github.com/vincentjamessalvino/Readme.md/assets/145561497/57abb92f-8e32-4799-950b-287d7399c18a">
 
 #### Step 3:  Install Raspbian OS on SD Card
+![Screenshot (456)](https://github.com/vincentjamessalvino/Readme.md/assets/145561497/482dba8a-cb59-42ff-b63d-44ef098d2763)
 
 #### Step 4: Configure
 Change the Username and Password and Connect to Wi-Fi and Make sure to enable the ssh
+![Screenshot (454)](https://github.com/vincentjamessalvino/Readme.md/assets/145561497/235c1191-aa42-438a-bfce-132f48b9935c)
+![Screenshot (499)](https://github.com/vincentjamessalvino/Readme.md/assets/145561497/622b2007-4e27-4999-80ba-3f94ca535870)
 
 #### Step 5: Insert SD Card
 Insert the SD card into the Raspberry Pi and power it up.
@@ -28,6 +32,7 @@ Insert the SD card into the Raspberry Pi and power it up.
 
 #### Step 1: Find Raspberry Pi IP
 Connect the Raspberry Pi in monitor to check your Raspberry Pi IP in and type in command prompt ifconfig and get the inet. 
+![IMG_20231213_161444_914](https://github.com/vincentjamessalvino/Readme.md/assets/145561497/4e89cba9-c124-4db0-a471-0ffbaf916bb2)
 
 #### Step 2: Open Terminal
 Open the terminal on your computer.
@@ -103,6 +108,7 @@ Navigate to 'Interface Options' > 'VNC' and enable it.
 
 #### Step 2: Download and Install VNC Viewer
 On your computer, visit the official RealVNC website: [RealVNC Download](https://www.realvnc.com/en/connect/download/viewer/)
+![Screenshot (497)](https://github.com/vincentjamessalvino/Readme.md/assets/145561497/88ae0ae3-cd12-4858-a814-92340d6172be)
 
 #### Step 3: Connect via VNC Viewer
 Connect to the Raspberry Pi using its IP address.
