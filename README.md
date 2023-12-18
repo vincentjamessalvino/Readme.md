@@ -96,10 +96,6 @@ Run the following command to enable VNC:
 ```bash
 sudo raspi-config
 ```
-![Screenshot 2023-12-13 163936](https://github.com/vincentjamessalvino/Readme.md/assets/145563728/245c0c3c-3d79-4fd4-86c1-485624e02c7c)
-
-![Screenshot 2023-12-13 164040](https://github.com/vincentjamessalvino/Readme.md/assets/145563728/fd575876-424e-4295-b9d6-9b5a13c069d5)
-
 Navigate to 'Interface Options' > 'VNC' and enable it.
 
 ![Screenshot 2023-12-13 164104](https://github.com/vincentjamessalvino/Readme.md/assets/145563728/e042d965-53a2-4841-9f67-f561535560ff)
@@ -110,5 +106,9 @@ On your computer, visit the official RealVNC website: [RealVNC Download](https:/
 #### Step 3: Connect via VNC Viewer
 Connect to the Raspberry Pi using its IP address.
 
+![Screenshot 2023-12-13 163936](https://github.com/vincentjamessalvino/Readme.md/assets/145563728/245c0c3c-3d79-4fd4-86c1-485624e02c7c)
+
 #### Step 4: Control Raspberry Pi
 You can now control the Raspberry Pi desktop using VNC Viewer.
+
+![Screenshot 2023-12-13 164040](https://github.com/vincentjamessalvino/Readme.md/assets/145563728/fd575876-424e-4295-b9d6-9b5a13c069d5)
